@@ -1,7 +1,7 @@
 # OLED Control Panel Board
 
-![Mechanical design front](Docs/Assets/mechanical-front.png)
-![Mechanical design side](Docs/Assets/mechanical-side.png)
+![Mechanical design front](wiki/Assets/mechanical-front.png)
+![Mechanical design side](wiki/Assets/mechanical-side.png)
 
 ## Revisions
 
