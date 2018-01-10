@@ -1,5 +1,8 @@
 # OLED Control Panel Board
 
+![Mechanical design front](Docs/Assets/mechanical-front.png)
+![Mechanical design side](Docs/Assets/mechanical-side.png)
+
 ## Revisions
 
 Board revisions are kept as tags in git. The board is generally tagged when the files have been sent off for manufacturing. To export a specific revision, simply run
