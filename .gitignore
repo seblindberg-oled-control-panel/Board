@@ -1,0 +1,6 @@
+Gerbers/*
+*.s\#[0-9]
+*.b\#\#
+*.b\#[0-9]
+*.lck
+eagle.epf
