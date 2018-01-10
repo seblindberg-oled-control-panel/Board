@@ -18,3 +18,12 @@ where the hash of the tag can be found by running `git show rev-a` for the speci
 A ruby script is included for generating EAGLE commands that place some of the more repetitive components. There are tools in EAGLE for achieving the same thing and they are most likely better, but a) I did not know that at the time and b) doing it yourself is often more flexible. 
 
 To run the scripts you need to locate the Scripts folder in your terminal of choice and type `ruby place_leds.rb`. Then press `enter` and copy the output into the command input in EAGLE.
+
+## Docs
+
+The documentation is located in another repository and included here as a submodule. To get it after cloning you need to run
+
+```
+$ git submodule init
+$ git submodule update
+```
